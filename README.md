@@ -14,7 +14,7 @@ Objetivo
 
 ### Resolução Tarefa 1:
 
-A tarefa 1 encontra-se no arquivo <b>specs_produtos.py</b>, vamos ao código:
+A tarefa 1 encontra-se no arquivo <b>project/specs_produtos.py</b>, vamos ao código:
 
 - Estamos utilizando a lib <b>pandas</b> para ler o arquivo .csv e a lib <b>numpy</b> para manipular os dados deste arquivo 
 
@@ -55,7 +55,7 @@ A media do produto 5 é 65.0, a mediana é 65.0, e o desvião padrão é 4.08248
 
 ### Resolução Tarefa 2:
 
-A tarefa 2 encontra-se no arquivo <b>produtos_dias.py</b>, vamos ao código:
+A tarefa 2 encontra-se no arquivo <b>project/produtos_dias.py</b>, vamos ao código:
 
 - Estamos utilizando a lib <b>pandas</b> para ler o arquivo .csv, a lib <b>numpy</b> para manipular os dados deste arquivo e lib <b>matplotlib.pyplot</b> para fazer a criação do gráfico. 
 
@@ -88,11 +88,11 @@ plt.show()
 ```
 - Rodando este arquivo, temos como output:
 
-![Grafico 1](./Figure_1.png)
+![Grafico 1](screenshots/Figure_1.png)
 
 ### Resolução Tarefa 3:
 
-A tarefa 3 encontra-se no arquivo <b>media_produtos.py</b>, vamos ao código:
+A tarefa 3 encontra-se no arquivo <b>project/media_produtos.py</b>, vamos ao código:
 
 - Estamos utilizando a lib <b>pandas</b> para ler o arquivo .csv, a lib <b>numpy</b> para manipular os dados deste arquivo e lib <b>matplotlib.pyplot</b> para fazer a criação do gráfico. 
 
@@ -133,4 +133,4 @@ plt.show()
 
 - Rodando este arquivo, temos como output:
 
-![Grafico 1](./Figure_2.png)
+![Grafico 1](screenshots/Figure_2.png)
